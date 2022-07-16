@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="javafsd-main">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/CookieDemo/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/DynamicWebApp/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/FirstServletProj/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/javaFsd/flightreservation/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/javaFsd/Phase1_final_Project/ProjectCompanyLockers/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/RequestDispacther_demo/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/RequestDispactherServlet/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Day8/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Day8Test/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/DesignPattern/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/JavaCryptographic/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/javaFsd/CookieDemo/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/JavaFsdProjects/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/SortingTechnique/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="javafsd-main"/>
+        <property name="java-output-path" value="/javafsd-main/CookieDemo/build/classes"/>
+    </wb-module>
+</project-modules>

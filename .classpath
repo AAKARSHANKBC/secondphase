@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="javaFsd/Phase1_final_Project/ProjectCompanyLockers/src/|Day8Test/src/|RequestDispacther_demo/src/main/java/|javaFsd/CookieDemo/src/main/java/|javaFsd/flightreservation/src/main/java/|Day8/src/|JavaFsdProjects/src/|RequestDispactherServlet/src/main/java/|DynamicWebApp/src/main/java/|src/|CookieDemo/src/main/java/|FirstServletProj/src/main/java/|JavaCryptographic/src/|DesignPattern/src/|SortingTechnique/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="CookieDemo/src/main/java"/>
+	<classpathentry kind="src" path="Day8/src"/>
+	<classpathentry kind="src" path="Day8Test/src"/>
+	<classpathentry kind="src" path="DesignPattern/src"/>
+	<classpathentry kind="src" path="DynamicWebApp/src/main/java"/>
+	<classpathentry kind="src" path="FirstServletProj/src/main/java"/>
+	<classpathentry kind="src" path="JavaCryptographic/src"/>
+	<classpathentry kind="src" path="javaFsd/CookieDemo/src/main/java"/>
+	<classpathentry kind="src" path="javaFsd/flightreservation/src/main/java"/>
+	<classpathentry kind="src" path="javaFsd/Phase1_final_Project/ProjectCompanyLockers/src"/>
+	<classpathentry kind="src" path="JavaFsdProjects/src"/>
+	<classpathentry kind="src" path="RequestDispacther_demo/src/main/java"/>
+	<classpathentry kind="src" path="RequestDispactherServlet/src/main/java"/>
+	<classpathentry kind="src" path="SortingTechnique/src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="CookieDemo/build/classes"/>
+</classpath>
